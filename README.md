@@ -95,17 +95,16 @@ Home lab focused on strengthening troubleshooting, traffic analysis, and threat 
 
 ## 🚀 Selected Projects
 
-### agroscore.ai  
+### 📌 [agroscore.ai](https://github.com/amllrkhan/agroscore.ai)
 AI-powered agricultural analytics platform providing predictive insights for operational optimization.  
-Backend architecture and logic developed collaboratively within a team.
+🔗 Code → https://github.com/amllrkhan/agroscore.ai
 
-### marketmind  
+### 📌 [marketmind](https://github.com/amllrkhan/marketmind)
 Business intelligence system offering:
 - Strategic location analysis  
 - Financial tracking  
 - Performance monitoring  
-
-Additional cybersecurity and infrastructure-focused projects in development.
+🔗 Code → https://github.com/amllrkhan/marketmind  
 
 ---
 
@@ -119,7 +118,8 @@ Additional cybersecurity and infrastructure-focused projects in development.
 
 ## 📫 Contact
 
-📧 amiraliyev2029@gmail.com  
+📧 Email: amiraliyev2029@gmail.com  
+🔗 LinkedIn: [amir-aliyev](http://linkedin.com/in/amir-aliyev)
 
 ---
 
