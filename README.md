@@ -1,20 +1,10 @@
-<p align="center">
-  <pre style="color:#00ff41; background:#000000; padding:20px; border-radius:10px; font-family:monospace; font-size:16px;">
-      ___   __  __ ___ _  _ ____  _     ___ __   __
-     / _ \ |  \/  | _ \ || |  _ \| |   / _ \\ \ / /
-    | | | || |\/| |  _/ __ | | | | |  | | | |\ V / 
-    | |_| || |  | | | | || | |_| | |__| |_| | | |  
-     \___/ |_|  |_|_|  \__|_|____/|____\___/  |_|  
+# 👋 Hi, I’m Amir Aliyev
 
-      Amir Aliyev | Cisco Network & Security Engineer
-      SOC | Threat Detection | Python Backend Developer
-      Secure Infrastructure Builder | Tashkent, Uzbekistan
-  </pre>
-</p>
+**Cisco Network & Security Engineer | SOC | Python Backend Developer**  
+Secure Infrastructure Builder | Tashkent, Uzbekistan  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=28&center=true&vCenter=true&width=900&lines=Amir+Aliyev;Cisco+Network+%26+Security+Engineer;SOC+%7C+Threat+Detection;Python+Backend+Developer;Secure+Infrastructure+Builder" />
-</p>
+🌟 Passionate about building **scalable backend systems**, **secure networks**, and **real-world automation tools**.  
+🚀 Focused on **SOC operations**, **threat detection**, and **enterprise infrastructure**.
 
 <p align="center">
   <a href="http://linkedin.com/in/amir-aliyev">
