@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Certification-CCNA%20Expertise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Network%20Security-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Java%20%7C%20Flask-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Flask%20%7C%20Security-3776AB?style=for-the-badge"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
   <br/>
   <!-- Main Tech Stack -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,js,mysql,java,linux,bash,git" />
+    <img src="https://skillicons.dev/icons?i=py,flask,js,mysql,linux" />
   </a>
   <br/>
   <!-- Vibe Coding Skill -->
@@ -44,7 +44,7 @@
     <td width="50%">
       <h4>🔹 <a href="https://github.com/amllrkhan/javafx">Family Tasks App</a></h4>
       <p>Secure JavaFX desktop application with BCrypt authentication and dynamic analytics dashboards.</p>
-      <code>Java</code> <code>JavaFX</code> <code>JSON</code> <code>Security</code>
+      <code>Java</code> <code>Security</code>
     </td>
     <td width="50%">
       <h4>🔹 <a href="https://github.com/amllrkhan/agroscore.ai">AgroScore.ai</a></h4>
