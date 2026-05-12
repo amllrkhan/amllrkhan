@@ -12,25 +12,20 @@
 
 ---
 
-### 🛡️ About Me
-I am a **Network Security Professional** with a deep foundation in **Cisco Systems** and a passion for **Backend Engineering**. I specialize in designing secure network topologies and developing robust, high-performance server-side applications.
+### 🛡️ System Overview
+```zsh
+> whoami
+amiraliyev (Network Security Engineer)
 
-*   🌐 **Networking**: Advanced knowledge in Cisco routing, switching, and security protocols.
-*   💻 **Backend**: Building secure APIs and data-driven systems using Python and Java.
-*   🚀 **Goal**: Integrating infrastructure security with modern software development.
+> uptime
+High availability, constantly learning.
 
----
-
-### 🧰 Tech Stack & Skills
-
-<p align="center">
-  <!-- Networking Section -->
-  <img src="https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Firewalls%20&%20VPN-red?style=for-the-badge" />
-  <br/>
-  <!-- Programming Section -->
-  <img src="https://skillicons.dev/icons?i=py,flask,java,js,mysql,postgres,linux,bash" />
-</p>
+> scan --target local_skills
+[OK] Cisco Enterprise Networking
+[OK] Python/Flask Backend Security
+[OK] Java Desktop Infrastructure
+[OK] Database Integrity (MySQL/Postgres)
+```
 
 ---
 
@@ -78,7 +73,21 @@ I am a **Network Security Professional** with a deep foundation in **Cisco Syste
 
 ---
 
-### 📫 Let's Connect
+### 🐍 The Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 💡 Something Unexpected...
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Detecting+threats...;Hardening+firewalls...;Optimizing+backend+latency...;Coffee.exe+is+running;Encryption+enabled." alt="Typing SVG" />
+</p>
+
+---
+
+### 📫 Secure Channel
 *   📧 **Email**: amiraliyev2029@gmail.com
 *   🔗 **LinkedIn**: [amir-aliyev](http://linkedin.com/in/amir-aliyev)
 
