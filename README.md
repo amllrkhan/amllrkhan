@@ -12,20 +12,10 @@
 
 ---
 
-### 🛡️ System Overview
-```zsh
-> whoami
-amiraliyev (Network Security Engineer)
-
-> uptime
-High availability, constantly learning.
-
-> scan --target local_skills
-[OK] Cisco Enterprise Networking
-[OK] Python/Flask Backend Security
-[OK] Java Desktop Infrastructure
-[OK] Database Integrity (MySQL/Postgres)
-```
+### 🛡️ System Terminal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&width=600&lines=whoami:+amir-aliyev+(Security+Engineer);uptime:+Constant+Learning;status:+System+Hardened;scanning+skills...+[OK]" alt="Terminal Bio" />
+</p>
 
 ---
 
@@ -67,20 +57,22 @@ High availability, constantly learning.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amllrkhan&theme=nord&hide_border=true&background=00000000" width="48%" />
 </p>
 
+---
+
+### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amllrkhan&layout=compact&theme=nord&hide_border=true&bg_color=00000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <i>(Note: Snake will appear 1-2 minutes after the first push!)</i>
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 💡 Something Unexpected...
+### 🛰️ Real-time Status
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Detecting+threats...;Hardening+firewalls...;Optimizing+backend+latency...;Coffee.exe+is+running;Encryption+enabled." alt="Typing SVG" />
 </p>
