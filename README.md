@@ -19,6 +19,24 @@
 
 ---
 
+### 🧰 Tech Stack & Skills
+
+<p align="center">
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Firewalls%20&%20VPN-red?style=for-the-badge" />
+  <br/>
+  <!-- Main Tech Stack -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,js,mysql,java,linux,bash,git" />
+  </a>
+  <br/>
+  <!-- Vibe Coding Skill -->
+  <img src="https://img.shields.io/badge/Skill-Vibe%20Coding-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
 ### 📂 Featured Projects
 
 <table>
@@ -66,8 +84,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <i>(Note: Snake will appear 1-2 minutes after the first push!)</i>
 </p>
 
 ---
