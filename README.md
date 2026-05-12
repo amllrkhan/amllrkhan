@@ -77,7 +77,11 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amllrkhan&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amllrkhan/amllrkhan/output/github-contribution-grid-snake-dark.svg">
